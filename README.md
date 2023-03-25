@@ -104,7 +104,7 @@ Assign permissions via properties, click on security and click advanced, disable
 <img src="https://i.imgur.com/WZ2Crtf.png" height="80%" width="80%"/>
 </p>
 <p>
-Creating a resource group and virtual machine, using Windows 10 Virtual Maching with2-4 Virtual cpus.
+
 </p>
 <br />
 
@@ -120,7 +120,7 @@ Click and remove all ineherited permissions from the object, click set principal
 <img src="https://i.imgur.com/W6NC83u.png" height="80%" width="80%"/>
 </p>
 <p>
-Enable full control for "everyone" click apply, and click okay.
+
 </p>
 <br />
 
@@ -141,4 +141,4 @@ Continue to enter in information in osTicket; successfully installed osTicket.
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
