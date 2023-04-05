@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/5QUDSDA.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/1PPAbfZ.png" height="80%" width="80%"/>
 </p>
 <p>
 Creating a resource group and virtual machine, using Windows 10 Virtual Maching with2-4 Virtual cpus.
@@ -35,7 +35,7 @@ Creating a resource group and virtual machine, using Windows 10 Virtual Maching 
 <br />
 
 <p>
-<img src="https://i.imgur.com/GCDlMkT.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/tVr0rA8.png" height="80%" width="80%"/>
 </p>
 <p>
 Copy IP of Virtual machine, log in, and enable IIS in Windows.
@@ -43,7 +43,7 @@ Copy IP of Virtual machine, log in, and enable IIS in Windows.
 <br />
 
 <p>
-<img src="https://i.imgur.com/Y2FvXPL.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/9WQO4J3.png" height="80%" width="80%"/>
 </p>
 <p>
 Turn off windows features, while in programs, find internet services, proceed to world wide services, click CGI on and click ok.
